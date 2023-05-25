@@ -1,0 +1,10 @@
+{
+  "name": "PWATest",
+  "short_name": "PwaTest",
+  "theme_color": "#419ce3",
+  "background_color": "#2c9ef9",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/index.html"
+}
